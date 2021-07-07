@@ -2,7 +2,7 @@
 Multiple File Extension Changer
 
 Warning : this program only change file extension and not converting the file
-your file might can't be opened if you change the extension to unsupported type (Example: change .docx to .jpg which is actually impossible without converting)
+your file might can't be opened if you change the extension to unsupported type (Example: change .docx to .jpg which is actually impossible without converting method)
 
 Disclaimer :
 "THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
